@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 🌱 I’m currently learning how to use OpenAI API
 
 ## 🌐 Socials:
-![LinkedIn](https://www.linkedin.com/in/sakurakoffron/)
+[![LinkedIn logo](https://github.com/sakunyann/sakunyann/blob/main/LinkedIn%20logo.png)](https://www.linkedin.com/in/sakurakoffron/)
 
 
 # 💻 Tech Stack:
-Python
+[![Python logo](https://github.com/sakunyann/sakunyann/blob/main/python%20logo.png)](https://www.python.org/)
 
 # 📊 GitHub Stats:
 
