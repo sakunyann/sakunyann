@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on developing my GIT repository as a data scientist. 
+🔭 I’m currently working on developing my Github repository as a data scientist. 
 
 🌱 I’m currently learning how to use OpenAI API
 
