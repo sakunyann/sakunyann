@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.python.org%2F)
-[![SQL logo](https://github.com/sakunyann/sakunyann/blob/main/sql%20logo.png)](https://azure.microsoft.com/en-us/products/azure-sql/)
+![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-blue?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server%2F)
+
 
 # 📊 GitHub Stats:
 
