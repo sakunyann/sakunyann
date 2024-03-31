@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning how to use OpenAI API
 
 ## 🌐 Socials:
-[![LinkedIn logo](https://github.com/sakunyann/sakunyann/blob/main/LinkedIn%20logo.png)](https://www.linkedin.com/in/sakurakoffron/)
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakurakoffron%2F)
 
 
 # 💻 Tech Stack:
