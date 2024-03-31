@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on developing my Github repository as a data scientist. 
 
 🌱 I’m currently developing data science web apps written in Python.
+
+
+<br>
 
 ## 🌐 Socials:
 [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakurakoffron%2F)](https://www.linkedin.com/in/sakurakoffron/) 
@@ -26,12 +30,12 @@ Here are some ideas to get you started:
 ](https://www.datacamp.com/portfolio/koffronsakura)
 
 
+<br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 [![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org) 
 [![Static Badge](https://img.shields.io/badge/OpenAI-white?style=for-the-badge&logo=openai&logoColor=white&labelColor=black&color=black&link=https%3A%2F%2Fopenai.com%2F)](https://www.openai.com) 
-[![Static Badge](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=red&labelColor=white&color=white)
-](https://streamlit.io)
+[![Static Badge](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=red&labelColor=white&color=white)](https://streamlit.io)
 [![Static Badge](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=white&labelColor=%2318171c&color=%2318171c)
 ](https://github.com/)
 
@@ -41,5 +45,7 @@ Here are some ideas to get you started:
 ](https://powerbi.microsoft.com/)
 
 
-# 📊 GitHub Stats:
+<br>
+
+## 📊 GitHub Stats:
 
