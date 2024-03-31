@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakurakoffron%2F)
-![Static Badge](https://img.shields.io/badge/DataCamp-%230c1224?style=flat-square&logo=datacamp&logoColor=%2334ed72&labelColor=%230c1224&color=%230c1224&link=https%3A%2F%2Fwww.datacamp.com%2Fportfolio%2Fkoffronsakura-left)
+![Static Badge](https://img.shields.io/badge/DataCamp-%230c1224?style=flat-square&logo=datacamp&logoColor=%2334ed72&labelColor=%230c1224&color=%230c1224)
+
 
 
 
