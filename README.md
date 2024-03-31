@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakurakoffron%2F)
+![Static Badge](https://img.shields.io/badge/DataCamp-%2334ed72?style=flat-square&logo=datacamp&logoColor=black&labelColor=%2334ed72&color=%2334ed72&link=https%3A%2F%2Fwww.datacamp.com%2Fportfolio%2Fkoffronsakura)
+
 
 
 # 💻 Tech Stack:
