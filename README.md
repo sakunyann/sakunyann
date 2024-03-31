@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m currently working on developing my Github repository as a data scientist. 
 
-🌱 I’m currently learning how to use OpenAI API
+🌱 I’m currently developing data science web apps written in Python.
 
 ## 🌐 Socials:
 ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakurakoffron%2F)
