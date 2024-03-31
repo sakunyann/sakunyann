@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 [![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org) 
 [![Static Badge](https://img.shields.io/badge/OpenAI-white?style=flat-square&logo=openai&logoColor=white&labelColor=black&color=black&link=https%3A%2F%2Fopenai.com%2F)](https://www.openai.com) 
 [![Static Badge](https://img.shields.io/badge/Streamlit-red?style=flat-square&logo=streamlit&logoColor=red&labelColor=white&color=white)
-](https://streamlit.io) 
+](https://streamlit.io)
+
 [![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-blue?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server%2F)](https://www.microsoft.com/en-us/sql-server)
 
 
