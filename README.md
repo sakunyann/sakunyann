@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ](https://streamlit.io)
 
 [![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-blue?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server%2F)](https://www.microsoft.com/en-us/sql-server)
+[![Static Badge](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=yellow&color=yellow)
+](https://powerbi.microsoft.com/)
 
 
 # 📊 GitHub Stats:
