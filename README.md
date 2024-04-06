@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 📊 Areas of Interest:
+## 😄 Areas of Interest:
 
 ```mermaid
 mindmap
