@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ```mermaid
 mindmap
-  root((public health))
+  root((Data Science <br> & <br> Public Health))
     Automation
       AI
         Machine Learning
