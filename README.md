@@ -53,5 +53,26 @@ Here are some ideas to get you started:
 
 <br>
 
-## 📊 GitHub Stats:
+## 📊 Areas of Interest:
+
+```mermaid
+mindmap
+  root((public health))
+    Automation
+      AI
+        Machine Learning
+        OpenAI
+            DALL·E 3
+            ChatGPT
+    Data
+        Pipelines
+        Scraping
+        Modeling
+        Trends
+    Tools
+      Python
+      Streamlit
+      APIs
+```
+
 
