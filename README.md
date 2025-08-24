@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 <br>
 
 ## 💫 About Me:
-🌱 I’m currently working on developing my Github repository as a data scientist. 
 
-🔭 I’m currently developing [data science web apps](https://sakunyanappio-dsportfolio.streamlit.app/) written in Python.
+🌱 On a journey to transform raw data into compelling stories through code.  
 
+🔭 Currently developing [Python-based web apps](https://sakunyanappio-dsportfolio.streamlit.app/) that explore, visualize, and occasionally roast datasets.  
+
+💡 I treat each project as a mini-experiment in clarity, creativity, and curiosity. 
 
 <br>
 
